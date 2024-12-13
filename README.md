@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaRaj212&show_icons=true&theme=radical" alt="Aditya's GitHub stats" height="150px"/>
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRaj212&layout=compact&theme=radical" alt="Top Languages" height="150px"/>](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaRaj212&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRaj212&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
 </div>
 
 ---
@@ -48,8 +48,8 @@
 
 ## 📌 Featured Projects
 
-[![Scribble-board](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=Scribble-board&theme=radical)](https://github.com/AdityaRaj212/Scribble-board)
 [![Post-away](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=PostAway-Beta&theme=radical)](https://github.com/AdityaRaj212/PostAway-Beta)
+[![Post-away](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=CRM_application&theme=radical)](https://github.com/AdityaRaj212/CRM_application)
 
 ---
 
