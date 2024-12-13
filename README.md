@@ -38,7 +38,12 @@
 ---
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaRaj212&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AdityaRaj212&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 ---
 
