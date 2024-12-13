@@ -36,7 +36,7 @@
 ---
 
 ## 🖥️ GitHub Activity Graph
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdityaRaj212&theme=radical)](https://github.com/AdityaRaj212)
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaRaj212&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -58,10 +58,9 @@
 > ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎯 Random Dev Meme
-> ![Dev Meme](https://random-memer.herokuapp.com/)
+> [Check out Dev Memes!](https://devhumor.com/)
 
 ---
 
 ## 🛡️ Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AdityaRaj212.AdityaRaj212)
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=AdityaRaj212&style=flat-square&color=blue)
