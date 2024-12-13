@@ -8,7 +8,14 @@
 - 🌱 Learning: Blockchain, Advanced React, and Machine Learning
 - 💬 Ask me about Web Development, JavaScript, React.js, or anything tech-related
 - 📫 How to reach me: [adityaraj212.work@gmail.com](mailto:adityaraj212.work@gmail.com)
-- ⚡ Fun fact: I love tracing celestial bodies like Jupiter using OpenCV 🌌
+- ⚡ Fun fact: I turn caffeine into code and ideas into reality ☕💻
+
+---
+
+### 🚦 My Status
+- 😎 Always Ready to Code
+- 🌍 Exploring the World of Technology
+- 💬 Drop a Question Anytime!
 
 ---
 
@@ -42,7 +49,14 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditya-raj-shit-b30129258/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://adityaraj212.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://adityaraj212.vercel.app](https://portfolio-4g4n.onrender.com))
+
+---
+
+## 🌈 Current Mood
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&width=500&lines=Exploring+the+infinite+sky+🌌;Crafting+web+applications+🌐;Tracing+data+patterns+🔍;Bringing+ideas+to+life+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -60,6 +74,9 @@
 
 ### 🎯 Random Dev Meme
 > [Check out Dev Memes!](https://devhumor.com/)
+
+### 🌟 Code Quote of the Day
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
 
