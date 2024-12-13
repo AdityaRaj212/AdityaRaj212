@@ -73,14 +73,28 @@
 ---
 
 ## 🎨 Fun Additions
-### 🌌 Daily Motivation Quote
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎯 Random Dev Meme
-> [Check out Dev Memes!](https://devhumor.com/)
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-### 🌟 Code Quote of the Day
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+  <div style="text-align: center;">
+    <h3>🌌 Daily Motivation Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivation Quote" />
+  </div>
+
+  <div style="text-align: center;">
+    <h3>🎯 Random Dev Meme</h3>
+    <a href="https://devhumor.com/">
+      <img src="https://i.imgur.com/VUiyEVv.jpeg" alt="Dev Meme" height="150" />
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h3>🌟 Code Quote of the Day</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Code Quote" />
+  </div>
+
+</div>
+
 
 ---
 
