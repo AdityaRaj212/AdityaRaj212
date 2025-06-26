@@ -88,7 +88,7 @@
 ## 📌 Featured Projects
 
 [![Post-away](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=PostAway-Beta&theme=radical)](https://github.com/AdityaRaj212/PostAway-Beta)
-[![CRM-application](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=CRM_application&theme=radical)](https://github.com/AdityaRaj212/CRM_application)
+[![Clash-of-Brains](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=Clash-of-brains&theme=radical)](https://github.com/AdityaRaj212/Clash-of-brains)
 
 ---
 
