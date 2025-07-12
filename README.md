@@ -90,18 +90,6 @@
 [![Post-away](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=PostAway-Beta&theme=radical)](https://github.com/AdityaRaj212/PostAway-Beta)
 [![Clash-of-Brains](https://github-readme-stats.vercel.app/api/pin/?username=AdityaRaj212&repo=Clash-of-brains&theme=radical)](https://github.com/AdityaRaj212/Clash-of-brains)
 
----
-
-## 🎨 Fun Additions
-### 🌌 Daily Motivation Quote
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🎯 Random Dev Meme
-> [Check out Dev Memes!](https://devhumor.com/)
-
-### 🌟 Code Quote of the Day
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
 </div>
 
 
