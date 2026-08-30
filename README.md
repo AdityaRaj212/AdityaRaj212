@@ -8,9 +8,8 @@
 
 
 ## 🚀 About Me
-- 🌌 Aerospace Engineering student & Full Stack Developer 🚀
+- 🌌 Software Engineer 🚀
 - 🔭 Currently working on **[My Projects](https://github.com/AdityaRaj212?tab=repositories)**
-- 🌱 Learning: Blockchain, Advanced React, and Machine Learning
 - 💬 Ask me about Web Development, JavaScript, React.js, or anything tech-related
 - 📫 How to reach me: [adityaraj212.work@gmail.com](mailto:adityaraj212.work@gmail.com)
 - ⚡ Fun fact: I turn caffeine into code and ideas into reality ☕💻
